@@ -3,7 +3,7 @@
 
 ------------------------------- Reference --------------------------------
 
-Liu Y, Wang H. Infill Criterion Ensemble in Multi-Objective Evolutionary Algorithm for Mixed-Variable Problems [C]//2024 IEEE Congress on Evolutionary Computation (2024 IEEE CEC).
+Liu Y, Wang H, Ma J. Infill Criterion Ensemble in Multi-Objective Evolutionary Algorithm for Mixed-Variable Problems [C]//2024 IEEE Congress on Evolutionary Computation (2024 IEEE CEC).
 
 ------------------------------- Copyright --------------------------------
 
@@ -12,6 +12,7 @@ Copyright (c) HandingWangXDGroup. Permission is granted to copy and use this cod
 Email: yongcunl@stu.xidian.edu.cn
 
 ------------------------------- Run requirements --------------------------------
+
 python == 3.8.3
 smt == 1.3.0
 scikit-learn
